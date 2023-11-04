@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="log_title">Sudah siap untuk membagikan ceritamu?</string>
+    <string name="log_subtitle">Masukkan dulu datamu ya</string>
+    <string name="login">Masuk</string>
+
+    <string name="reg_title">Lengkapi data dirimu di bawah ini</string>
+    <string name="register">Daftar</string>
+
+    <string name="welcome_title">Hallo Disana!</string>
+    <string name="welcome_body">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+
+
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Keluar</string>
+
+    <string name="language">Bahasa</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="created_at">15–10–2003</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="submit">Kirim</string>
+</resources>

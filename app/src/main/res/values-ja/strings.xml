@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="log_title">あなたのストーリーを共有する準備はできましたか？</string>
+    <string name="log_subtitle">まずデータを入力してください</string>
+    <string name="login">ログイン</string>
+
+    <string name="reg_title">以下の情報を入力してください</string>
+    <string name="register">登録</string>
+
+    <string name="welcome_title">こんにちは！</string>
+    <string name="welcome_body">Android、iOS、Machine Learning、Cloud、Front-End、Back-End、および他のIT分野を学びたいですか？ Dicodingで学んでください！</string>
+
+    <string name="name">名前</string>
+    <string name="email">メール</string>
+    <string name="password">パスワード</string>
+    <string name="logout">ログアウト</string>
+
+    <string name="language">言語</string>
+
+    <string name="title">タイトル</string>
+    <string name="description">説明</string>
+    <string name="created_at">2003年10月15日</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="submit">送信</string>
+</resources>
